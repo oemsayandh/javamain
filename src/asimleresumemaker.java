@@ -53,7 +53,7 @@ public class asimleresumemaker {
                 "School/College:" + school +"\n" +
                 "Degree: " + degree + "\n" +
                 "\n" +
-                "Built a strong academic foundation with practical knowledge, project experience, and professional development skills.");
+                "Built a sttrong academic foundation with practical knowledge, project experience, and professional development skills.");
         System.out.println("\n --------------------------------------------------------------------------------------");
         System.out.println("WORK EXPERIENCE\n" +
                 "\n" + jobTittle + "\n" +
