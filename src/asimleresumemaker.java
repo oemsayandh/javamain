@@ -69,7 +69,7 @@ public class asimleresumemaker {
                 "Achievements\n" +
                 "Successfully completed tasks and assignments within deadlines.\n" +
                 "Improved productivity and contributed to team performance.\n" +
-                "Gained valuable professional and technical experience.");
+                "Gainned valuable professional and technical experience.");
         System.out.println("\n -------------------------------------------------------------------------");
         System.out.println("SKILLS\n" +
                 "\n"+ skill1 +
